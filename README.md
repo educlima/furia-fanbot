@@ -1,76 +1,94 @@
-# FURIA Fans Chatbot
+# 🚀 Chatbot para fãs da FURIA
 
-Um chatbot interativo para fãs da FURIA Esports, com foco no time de CS:GO e outras modalidades.
+Um chatbot interativo para fãs da **FURIA Esports**, focado no cenário de **CS:GO** e outras modalidades.
 
-## Sobre o Projeto
+![Imagem do WhatsApp de 2025-05-15 à(s) 16 49 16_015f37d9](https://github.com/user-attachments/assets/9a5d9b88-9712-45ab-8d4d-04e49a20732f)
 
-Este projeto foi desenvolvido como parte do desafio "Experiência Conversacional FURIA" para criar uma interface conversacional para os fãs do time de CS da FURIA.
 
-O projeto consiste em uma landing page com um chatbot integrado que permite aos fãs obterem informações sobre o time, jogadores, próximos jogos, resultados recentes e outras informações relevantes.
+---
 
-## Tecnologias Utilizadas
+## 🔥 Sobre o Projeto
+Este projeto foi desenvolvido como parte do desafio **"Experiência Conversacional FURIA"**, para criar uma interface conversacional para os fãs do time de CS da FURIA.
 
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS
-- shadcn/ui para componentes de UI
-- AI SDK para o chatbot
-- Vercel para deploy
+O chatbot integrado à landing page permite aos fãs acessar informações como:
 
-## Funcionalidades
+- Horários de jogos  
+- Jogadores do time  
+- Próximas partidas e resultados  
+- Notícias atualizadas  
 
-- Interface de chat interativa
-- Informações sobre jogadores da FURIA
-- Próximos jogos e resultados recentes
-- Notícias sobre o time
-- FAQ sobre a FURIA
-- Design responsivo para desktop e mobile
 
-## Como Executar
+---
 
-1. Clone o repositório:
-\`\`\`bash
-git clone https://github.com/seu-usuario/furia-fans-chatbot.git
-cd furia-fans-chatbot
-\`\`\`
+## 🛠 Tecnologias Utilizadas
 
-2. Instale as dependências:
-\`\`\`bash
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+
+---
+
+## 🚀 Funcionalidades
+
+- Interface de chat interativa e responsiva  
+- Informações detalhadas sobre os jogadores da FURIA  
+- Próximos jogos e resultados recentes  
+- Notícias do time atualizadas  
+- Perguntas frequentes para os fãs  
+- Design responsivo para desktop e mobile  
+
+---
+
+## ⚙️ Como Executar
+
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/educlima/furia-fanbot.git
+   cd furia-fanbot
+
+2. Instalar as dependências:
+
 npm install
-\`\`\`
 
-3. Configure as variáveis de ambiente:
-Crie um arquivo `.env.local` na raiz do projeto e adicione:
-\`\`\`
+3. Configure as variáveis ​​de ambiente:
+Crie um arquivo .env.localna raiz do projeto e adicione:
 OPENAI_API_KEY=sua_chave_api_aqui
-\`\`\`
 
-4. Execute o projeto em modo de desenvolvimento:
-\`\`\`bash
-npm run dev
-\`\`\`
+4. Execute o projeto em modo desenvolvimento:
+   npm run dev
+   
+5. Acesse o projeto no navegador em:
+http://localhost:3000
 
-5. Acesse o projeto em `http://localhost:3000`
+#### Estrutura do Projeto ####
+/app— Páginas e rotas da aplicação
 
-## Estrutura do Projeto
+/components— Componentes reutilizáveis
 
-- `/app`: Contém as páginas e rotas da aplicação
-- `/components`: Componentes reutilizáveis
-- `/lib`: Utilitários e dados
-- `/public`: Arquivos estáticos
+/lib— Utilitários e dados
 
-## Melhorias Futuras
+/public— Arquivos estáticos
 
-- Integração com API oficial da FURIA para dados em tempo real
-- Autenticação de usuários para personalização
-- Notificações para jogos ao vivo
-- Estatísticas detalhadas dos jogadores
-- Integração com Twitch para streams ao vivo
+---
 
-## Autor
+🚧 Melhorias Futuras
+Integração com API oficial da FURIA para dados em tempo real
 
-Desenvolvido por Eduardo Corrêa de Lima - Estudante de Engenharia de Software da Universidade de Vassouras
+Autenticação para personalização do usuário
 
-## Licença
+Notificações para jogos ao vivo
 
+Estatísticas atualizadas dos jogadores
+
+Integração com Twitch para streams ao vivo
+
+---
+
+🙋‍♂️ Autor
+Desenvolvido por Eduardo Corrêa de Lima — Estudante de Engenharia de Software da Universidade de Vassouras
+
+---
+
+📄 Licença
 Este projeto é apenas para fins educacionais e não possui afiliação oficial com a FURIA Esports.
