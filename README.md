@@ -2,7 +2,7 @@
 
 Um chatbot interativo para fãs da **FURIA Esports**, focado no cenário de **CS:GO** e outras modalidades.
 
-![Imagem do WhatsApp de 2025-05-15 à(s) 16 49 01_2dca3aec](https://github.com/user-attachments/assets/4f1ffaf0-0dba-4108-ade0-b5da7812eeac)
+![Imagem do WhatsApp de 2025-05-16 à(s) 01 11 54_39af155a](https://github.com/user-attachments/assets/ed141073-226d-40eb-b7f5-469a7c89a3ce)
 
 
 ---
